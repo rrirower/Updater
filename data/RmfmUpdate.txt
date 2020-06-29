@@ -1,0 +1,3 @@
+3.0.0.3
+https://github.com/rrirower/mrss-feed-manager/releases/download/3.0.0.3/RmfmSetup.exe
+- Fix 2 crashes.%n- Added check for updates at start up.%n- Update to .Net 4.8%n
