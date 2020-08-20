@@ -1,3 +1,3 @@
-3.0.0.3
-https://github.com/rrirower/mrss-feed-manager/releases/download/3.0.0.3/RmfmSetup.exe
-- Fix 2 crashes.%n- Added check for updates at start up.%n- Update to .Net 4.8%n
+3.0.0.4
+https://github.com/rrirower/mrss-feed-manager/releases/download/3.0.0.4/RmfmSetup.exe
+- Add the ability to sort item inventories by clicking %non the column header.%n%n- Add PayPal button for users who would like to %nsupport this project.%n
