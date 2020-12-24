@@ -1,3 +1,3 @@
-2.0.2.8
-https://github.com/rrirower/json-feed-manager/releases/download/2.0.2.8/RjfmSetup.exe
-Here's what's new...%n%n- Bug fixes.%n%n- Add the ability to query feed file contents.%n%n- Add the ability to convert one feed type to %nanother (ie. convert a Movie to a Series Episode).%n%n- Add the ability to report a problem/issue from %nthe Help menu.%n
+2.0.2.9
+https://github.com/rrirower/json-feed-manager/releases/download/2.0.2.9/RjfmSetup.exe
+Here's what's new...%n%n- Bug fixes.%n%n- Fixed some crashes.%n%n- Enabled 'Discussions' on GitHub.  Discuss the %nsoftware, ask questions, etc. @ GitHub.%n
