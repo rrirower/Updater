@@ -1,3 +1,3 @@
-2.0.2.9
+2.0.3.0
 https://github.com/rrirower/json-feed-manager/releases/download/2.0.2.9/RjfmSetup.exe
-Here's what's new...%n%n- Bug fixes.%n%n- Fixed some crashes.%n%n- Enabled 'Discussions' on GitHub.  Discuss the %nsoftware, ask questions, etc. @ GitHub.%n
+Here's what's new...%n%n- Bug fixes.%n%n- Fixed some crashes.%n
