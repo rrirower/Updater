@@ -1,3 +1,3 @@
-2.0.3.0
-https://github.com/rrirower/json-feed-manager/releases/download/2.0.3.0/RjfmSetup.exe
-Here's what's new...%n%n- Bug fixes.%n%n- Fixed some crashes.%n
+2.0.3.1
+https://github.com/rrirower/json-feed-manager/releases/download/2.0.3.1/RjfmSetup.exe
+Here's what's new...%n%n- Bug fixes.%n%n- Fixed some crashes.%n%n- Performance improvements.%n%n- New log viewer with filtering.%n%n- Strengthen feed file validation using Roku %nSchema.%n%n-Remove 'Season' thumbnails.  Roku removed %nfrom Schema.%n%n- 'Rating' object is now required for some feed %nobjects per Roku Schema.%n
