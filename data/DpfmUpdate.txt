@@ -1,0 +1,2 @@
+1.0.0.0
+https://github.com/rrirower/DPFeedMerge/releases/download/1.0.0.0/DpfmSetup.exe
