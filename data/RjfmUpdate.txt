@@ -1,3 +1,3 @@
-2.0.3.2
-https://github.com/rrirower/json-feed-manager/releases/download/2.0.3.2/RjfmSetup.exe
-Here's what's new...%n%n- Bug fixes.%n- Fixed some crashes.%n- Performance improvements.%n- Upgrade .Net support to 4.8.%n
+2.0.3.3
+https://github.com/rrirower/json-feed-manager/releases/download/2.0.3.3/RjfmSetup.exe
+Here's what's new...%n%n- HOT Fix: Regression bug: Right click on a newly %ncreated Series object crashes the system.  Install %nthis fix to resolve the problem.%n
